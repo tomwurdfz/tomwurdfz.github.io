@@ -2,26 +2,30 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <!--<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.-->
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+  <!--
     <p>555 your office number</p>
     <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Your City, State 12345</p>-->
 
-news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 Hi, this is Tom.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I grew up in Beijing, China, went to RDFZ(High School Affiliated to Renmin University of China) for High school and I'm now an undergraduate student at the University of Toronto. I speak English and Mandarin and I'm currently learning French(Natural Languages), I mainly write Python and Java(Programming Languages).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I’m currently enrolled in the Astronomy and Physics Specialist program at UofT St. George and have been actively 
+engaged in research and coursework. Recognizing the importance of Computer Science in modern Astrophysics research, I am concurrently 
+pursuing a Computer Science Major with a focus on Scientific Computing alongside the Specialist program. Besides research and coursework, I'm also actively participating in outreach events such as AstroTours Volunteering.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In 2023, I spent 3 months at the National University of Singapore doing a research project by building the Software and Hardware that enables the automatic 
+mapping and recognition of exfoliated 2D materials. I'm currently doing a research project that focuses on Understanding Black Hole Populations with Gravitational Waves and Gamma-Ray Burst.
