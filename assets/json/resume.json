@@ -18,15 +18,37 @@
   },
   "Education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of Toronto",
+      "location": "Toronto, Canada",
+      "url": "",
+      "area": "Astronomy & Physics Specialist, Computer Science Major with Focus in Scientific Computing",
+      "studyType": "B.Sc",
+      "startDate": "2021-09-01",
+      "endDate": "2025-05-01",
+      "score": "",
+      "courses": "",
+    }
+    {
+      "institution": "National University of Singapore",
+      "location": "Singapore",
+      "url": "",
+      "area": "Undergraduate Research Opportunities Program in Science",
+      "studyType": "Undergraduate Research Exchange Student",
+      "startDate": "2023-05-01",
+      "endDate": "2023-07-01",
+      "score": "",
+      "courses": "",
+    }
+    {
+      "institution": "High School Affiliated to Renmin University of China",
+      "location": "Beijing, China",
+      "url": "",
+      "area": "",
+      "studyType": "High School Degree",
+      "startDate": "2018-09-01",
+      "endDate": "2021-06-01",
+      "score": "",
+      "courses": "",
     }
   ],
   "Projects": [
