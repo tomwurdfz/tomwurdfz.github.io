@@ -1,15 +1,27 @@
 {
-  "general information": [
-    {
+  "general information": {
     "name": "Tom Yujun Wu",
     "label": "Undergraduate Student",
     "image": "",
     "email": "yujun.wu@mail.utoronto.ca",
     "phone": "",
     "website": "https://tomwurdfz.github.io",
-    "summary": ""
-    }
-  ],
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
   "education": [
     {
       "institution": "University of Toronto",
@@ -27,7 +39,7 @@
       "location": "Singapore",
       "url": "",
       "area": "Undergraduate Research Opportunities Program in Science",
-      "studyType": "Undergraduate Research Exchange Student",
+      "studyType": "Exchange Student",
       "startDate": "2023-05-01",
       "endDate": "2023-07-01",
       "score": "",
@@ -55,7 +67,7 @@
       "url": "https://example.com"
     }
   ],
-  "programming Languages": [
+  "programming languages": [
     {
       "language": "Python",
       "experience": "6 years",
