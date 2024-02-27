@@ -1,5 +1,5 @@
 {
-  "General Information": [
+  "general information": [
     {
     "name": "Tom Yujun Wu",
     "label": "Undergraduate Student",
@@ -10,7 +10,7 @@
     "summary": ""
     }
   ],
-  "Education": [
+  "education": [
     {
       "institution": "University of Toronto",
       "location": "Toronto, Canada",
@@ -45,7 +45,7 @@
       "courses": ""
     }
   ],
-  "Projects": [
+  "projects": [
     {
       "name": "Placeholder",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
@@ -55,7 +55,7 @@
       "url": "https://example.com"
     }
   ],
-  "Programming Languages": [
+  "programming Languages": [
     {
       "language": "Python",
       "experience": "6 years",
@@ -82,7 +82,7 @@
       "description": "Basic Experience"
     }
   ],
-  "Awards": [
+  "awards": [
     {
       "title": "Placeholder",
       "date": "1921-11-01",
@@ -91,7 +91,7 @@
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
-  "Volunteer": [
+  "volunteer": [
     {
       "organization": "Placeholder",
       "position": "Lead Organizer",
