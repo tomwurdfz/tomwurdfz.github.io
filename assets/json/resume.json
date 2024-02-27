@@ -1,5 +1,6 @@
 {
-  "General Information": {
+  "General Information": [
+    {
     "name": "Tom Yujun Wu",
     "label": "Undergraduate Student",
     "image": "",
@@ -7,21 +8,8 @@
     "phone": "",
     "website": "https://tomwurdfz.github.io",
     "summary": "",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "",
-      "countryCode": "",
-      "region": ""
-    },
-    "profiles": [
-      {
-        "network": "",
-        "username": "",
-        "url": "n"
-      }
-    ]
-  },
+    }
+  ],
   "Education": [
     {
       "institution": "University of Toronto",
