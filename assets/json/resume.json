@@ -5,7 +5,7 @@
     "image": "",
     "email": "yujun.wu@mail.utoronto.ca",
     "phone": "",
-    "website": "https://tomwurdfz.github.io",
+    "website": "https://tomwurdfz.github.io/",
     "summary": "",
     "location": {
       "address": "",
@@ -67,7 +67,7 @@
       "url": "https://example.com"
     }
   ],
-  "programming languages": [
+  "programminglanguages": [
     {
       "language": "Python",
       "experience": "6 years",
