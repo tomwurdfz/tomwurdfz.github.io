@@ -32,7 +32,7 @@
       "startDate": "2021-09-01",
       "endDate": "2025-05-01",
       "score": "",
-      "courses": "",
+      "courses": ""
     }
     {
       "institution": "National University of Singapore",
@@ -43,7 +43,7 @@
       "startDate": "2023-05-01",
       "endDate": "2023-07-01",
       "score": "",
-      "courses": "",
+      "courses": ""
     }
     {
       "institution": "High School Affiliated to Renmin University of China",
@@ -54,7 +54,7 @@
       "startDate": "2018-09-01",
       "endDate": "2021-06-01",
       "score": "",
-      "courses": "",
+      "courses": ""
     }
   ],
   "Projects": [
@@ -69,14 +69,14 @@
   ],
   "Programming Languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "language": "Python",
+      "experience": "6 years",
+      "description": ""
     },
     {
       "language": "English",
       "fluency": "Fluent",
-      "icon": ""
+      "description": ""
     }
   ],
   "Awards": [
