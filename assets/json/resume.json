@@ -1,27 +1,15 @@
 {
-  "General Information": {
-    "name": "Tom Yujun Wu",
-    "label": "Undergraduate Student",
-    "image": "",
-    "email": "yujun.wu@mail.utoronto.ca",
-    "phone": "",
-    "website": "https://tomwurdfz.github.io",
-    "summary": "",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "",
-      "countryCode": "",
-      "region": ""
-    },
-    "profiles": [
-      {
-        "network": "",
-        "username": "",
-        "url": "n"
-      }
-    ]
-  },
+  "General Information": [
+    {
+      "name": "Tom Yujun Wu",
+      "label": "Undergraduate Student",
+      "image": "",
+      "email": "yujun.wu@mail.utoronto.ca",
+      "phone": "",
+      "website": "https://tomwurdfz.github.io",
+      "summary": ""
+    }
+  ],
   "Education": [
     {
       "institution": "University of Toronto",
