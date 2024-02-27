@@ -71,12 +71,27 @@
     {
       "language": "Python",
       "experience": "6 years",
-      "description": ""
+      "description": "Primary Programming Lanauge, Proficient"
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "description": ""
+      "language": "Java",
+      "experience": "5 years",
+      "description": "Proficient"
+    },
+    {
+      "language": "C",
+      "experience": "1 year",
+      "description": "Basic Experience"
+    },
+    {
+      "language": "R",
+      "experience": "1 year",
+      "description": "Basic Experience"
+    },
+    {
+      "language": "Matlab",
+      "experience": "1 year",
+      "description": "Basic Experience"
     }
   ],
   "Awards": [
