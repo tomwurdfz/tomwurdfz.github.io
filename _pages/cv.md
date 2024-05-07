@@ -1,11 +1,11 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: Resume
 nav: true
 nav_order: 5
 cv_pdf: Tom Wu Resume.pdf
-description: Hi, here are my skills and experiences.
-toc:
-  sidebar: left
+description: To download my resume, click on the button alongside.
+# toc:
+#  sidebar: left
 ---
