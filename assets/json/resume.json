@@ -1,8 +1,8 @@
 {
-  "basics": {
+  "Information": {
     "name": "Tom Yujun Wu",
-    "label": "Undergraduate Student",
-    "image": "",
+    "Position": "4th year Undergraduate Student",
+    "Age": "21",
     "email": "yujun.wu@mail.utoronto.ca",
     "phone": "",
     "website": "https://tomwurdfz.github.io/",
@@ -56,57 +56,4 @@
       "score": "",
       "courses": ""
     }
-  ],
-  "projects": [
-    {
-      "name": "Placeholder",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ],
-  "programminglanguages": [
-    {
-      "language": "Python",
-      "fluency": "6 years, Primary Programming Lanauge, Proficient"
-    },
-    {
-      "language": "Java",
-      "fluency": "5 years, Proficient"
-    },
-    {
-      "language": "C",
-      "fluency": "1 year, Basic Experience"
-    },
-    {
-      "language": "R",
-      "fluency": "1 year, Basic Experience"
-    },
-    {
-      "language": "Matlab",
-      "fluency": "1 year, Basic Experience"
-    }
-  ],
-  "awards": [
-    {
-      "title": "Placeholder",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Placeholder",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ]
 }
