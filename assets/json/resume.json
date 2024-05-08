@@ -1,5 +1,5 @@
 {
-  "Information": {
+  "information": {
     "name": "Tom Yujun Wu",
     "Position": "4th year Undergraduate Student",
     "Age": "21",
@@ -34,17 +34,7 @@
       "score": "",
       "courses": ""
     },
-    {
-      "institution": "National University of Singapore",
-      "location": "Singapore",
-      "url": "",
-      "area": "Undergraduate Research Opportunities Program in Science",
-      "studyType": "Exchange Student",
-      "startDate": "2023-05-01",
-      "endDate": "2023-07-01",
-      "score": "",
-      "courses": ""
-    },
+    
     {
       "institution": "High School Affiliated to Renmin University of China",
       "location": "Beijing, China",
