@@ -5,7 +5,7 @@ title: Resume
 nav: true
 nav_order: 5
 cv_pdf: Tom Wu Resume.pdf
-description: Resume last updated on Dec.19, 2024
+description: Last updated on Dec 2025
 # toc:
 #  sidebar: left
 ---
