@@ -19,6 +19,6 @@ Hi, I’m Tom.
 
 I grew up in Beijing, China, and attended RDFZ (the High School Affiliated to Renmin University of China) for high school. I completed my undergraduate studies at the University of Toronto (St. George campus), graduating with High Distinction, where I double-majored in Astronomy & Physics and Computer Science.
 
-I am currently a first-year Ph.D. student at the University of North Carolina at Chapel Hill. My academic interests lies in gravitationals wave sources and compact objects.
+I am currently a first-year Ph.D. student at the University of North Carolina at Chapel Hill. My academic interests lies in gravitationals wave sources, compact objects and the dynamics of stellar systems.
 
 I speak English and Mandarin, and have some basic knowledge of French. Outside of academics, I enjoy playing video games, watching documentaries, science fiction, and alternate-history fiction. I also skied when I was younger and am currently getting back into skiing.
