@@ -4,8 +4,8 @@ permalink: /cv/
 title: Resume
 nav: true
 nav_order: 5
-cv_pdf: Tom Wu Resume.pdf
-description: Last updated July 6, 2026
+cv_pdf: Tom_Wu_CV.pdf
+description: Last updated July 16, 2026
 # toc:
 #  sidebar: left
 ---
