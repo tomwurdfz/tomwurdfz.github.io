@@ -276,14 +276,65 @@ p { margin: 0 0 1.1rem; }
 
 .section-note { color: var(--muted); font-size: 0.95rem; }
 
-/* Research themes */
-.theme {
-  margin-top: 1.5rem;
-  padding: 0.25rem 0 0.1rem 1.25rem;
-  border-left: 2px solid var(--accent);
+/* Research: highlighted current focus */
+.focus {
+  margin-top: 1.75rem;
+  padding: 1.5rem 1.75rem 0.6rem;
+  background: var(--surface);
+  border: 1px solid var(--rule);
+  border-left: 3px solid var(--accent);
+  border-radius: 10px;
 }
-.theme h3 { margin-top: 0; margin-bottom: 0.4rem; font-size: 1.15rem; }
-.theme p { margin-bottom: 0.6rem; }
+.eyebrow {
+  margin: 0 0 0.2rem;
+  color: var(--link);
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+.focus h3 { margin: 0 0 0.75rem; font-size: 1.4rem; }
+.focus-list {
+  list-style: none;
+  margin: 0 0 1.1rem;
+  padding: 0;
+}
+.focus-list li {
+  position: relative;
+  padding: 0.55rem 0 0.55rem 1.4rem;
+  border-top: 1px dashed var(--rule);
+}
+.focus-list li:last-child { border-bottom: 1px dashed var(--rule); }
+.focus-list li::before {
+  content: "";
+  position: absolute;
+  left: 0.15rem; top: 1.05rem;
+  width: 7px; height: 7px;
+  border-radius: 50%;
+  background: var(--accent);
+  box-shadow: 0 0 8px var(--accent);
+}
+.focus-list strong { display: block; font-weight: 600; line-height: 1.45; }
+.focus-list span { display: block; color: var(--muted); font-size: 0.93rem; line-height: 1.5; }
+
+/* Research: previous work */
+.subhead {
+  margin-top: 2.75rem;
+  color: var(--muted);
+  font-size: 1.05rem;
+  letter-spacing: 0.01em;
+}
+.theme {
+  margin-top: 1.1rem;
+  padding: 0.1rem 0 0.1rem 1.25rem;
+  border-left: 2px solid var(--rule);
+}
+.theme h4 { margin: 0 0 0.35rem; font-family: var(--font-serif); font-weight: 600; font-size: 1.08rem; }
+.theme p { margin-bottom: 0.6rem; font-size: 0.98rem; }
+
+@media (max-width: 520px) {
+  .focus { padding: 1.2rem 1.1rem 0.4rem; }
+}
 
 /* Generic dated entries (education, talks, awards, teaching) */
 .entries { list-style: none; margin: 0; padding: 0; }
