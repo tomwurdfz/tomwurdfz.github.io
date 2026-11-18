@@ -1,0 +1,18 @@
+# tomwurdfz.github.io
+
+Personal academic website of Tom Yujun Wu. It's a plain static HTML/CSS site with no build step.
+GitHub Pages serves it from the root of `master` (`.nojekyll` turns off Jekyll processing).
+
+```
+index.html            all page content (About, Research, Publications, Talks & Awards, Teaching, Contact)
+css/style.css         styles; colors are CSS variables at the top of the file
+js/main.js            sidebar scroll-spy and mobile menu
+assets/img/           profile photo, chirp waveform motif, favicon
+assets/pdf/           CV
+404.html              not-found page
+```
+
+To preview locally, open `index.html` with the VS Code Live Server extension or any static file server.
+The chirp motif is a CSS mask, so it needs to be served over HTTP; opening the file directly may not show it.
+
+The previous al-folio (Jekyll) version is kept on the `al-folio-backup` branch.
