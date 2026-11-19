@@ -321,6 +321,51 @@ p { margin: 0 0 1.1rem; }
   border: 1.5px solid var(--accent);
   box-shadow: none;
 }
+/* Research figures (schematic SVG illustrations) */
+.focus-intro {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 15rem;
+  gap: 1.5rem;
+  align-items: start;
+}
+.focus-figure { margin: 0.3rem 0 1rem; }
+.focus-figure img {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 6px 22px rgba(13, 22, 49, 0.22);
+}
+.focus-figure figcaption {
+  margin-top: 0.45rem;
+  color: var(--muted);
+  font-size: 0.8rem;
+  line-height: 1.4;
+  text-align: center;
+}
+.focus-list li.has-fig {
+  display: grid;
+  grid-template-columns: 5.5rem minmax(0, 1fr);
+  gap: 1rem;
+  align-items: center;
+  padding-left: 0;
+}
+.focus-list li.has-fig::before { display: none; }
+.li-fig {
+  width: 5.5rem;
+  height: 5.5rem;
+  border-radius: 10px;
+  box-shadow: 0 3px 12px rgba(13, 22, 49, 0.2);
+}
+.focus-list li.has-fig.sub .li-fig { width: 4.75rem; height: 4.75rem; justify-self: end; }
+@media (max-width: 640px) {
+  .focus-intro { grid-template-columns: 1fr; gap: 0; }
+  .focus-figure { max-width: 20rem; margin: 0 auto 1.25rem; }
+  .focus-list li.has-fig { grid-template-columns: 4.25rem minmax(0, 1fr); gap: 0.8rem; }
+  .li-fig { width: 4.25rem; height: 4.25rem; }
+  .focus-list li.has-fig.sub .li-fig { width: 3.75rem; height: 3.75rem; }
+  .focus-list li.sub { margin-left: 0.9rem; }
+}
+
 .focus-list strong { display: block; font-weight: 600; line-height: 1.45; }
 .focus-list span { display: block; color: var(--muted); font-size: 0.93rem; line-height: 1.5; }
 

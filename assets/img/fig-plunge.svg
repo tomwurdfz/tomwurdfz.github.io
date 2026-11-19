@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="A small black hole on a highly eccentric orbit plunging into an intermediate-mass black hole">
+<title>A small black hole on a highly eccentric orbit plunging into an intermediate-mass black hole</title>
+<style>.mover { animation: plunge 4.2s linear infinite; transform: translate(65.2px, 37.6px); }
+@keyframes plunge { 0% { transform: translate(109.2px, 64px); opacity: 1; } 1.82% { transform: translate(109.17px, 62.95px); opacity: 1; } 3.64% { transform: translate(109.06px, 61.91px); opacity: 1; } 5.45% { transform: translate(108.89px, 60.86px); opacity: 1; } 7.27% { transform: translate(108.65px, 59.82px); opacity: 1; } 9.09% { transform: translate(108.33px, 58.78px); opacity: 1; } 10.91% { transform: translate(107.95px, 57.75px); opacity: 1; } 12.73% { transform: translate(107.5px, 56.72px); opacity: 1; } 14.55% { transform: translate(106.97px, 55.7px); opacity: 1; } 16.36% { transform: translate(106.37px, 54.69px); opacity: 1; } 18.18% { transform: translate(105.7px, 53.68px); opacity: 1; } 20% { transform: translate(104.96px, 52.69px); opacity: 1; } 21.82% { transform: translate(104.14px, 51.71px); opacity: 1; } 23.64% { transform: translate(103.25px, 50.74px); opacity: 1; } 25.45% { transform: translate(102.27px, 49.78px); opacity: 1; } 27.27% { transform: translate(101.22px, 48.84px); opacity: 1; } 29.09% { transform: translate(100.09px, 47.92px); opacity: 1; } 30.91% { transform: translate(98.88px, 47.01px); opacity: 1; } 32.73% { transform: translate(97.58px, 46.13px); opacity: 1; } 34.55% { transform: translate(96.2px, 45.27px); opacity: 1; } 36.36% { transform: translate(94.73px, 44.43px); opacity: 1; } 38.18% { transform: translate(93.17px, 43.62px); opacity: 1; } 40% { transform: translate(91.52px, 42.84px); opacity: 1; } 41.82% { transform: translate(89.76px, 42.1px); opacity: 1; } 43.64% { transform: translate(87.91px, 41.39px); opacity: 1; } 45.45% { transform: translate(85.95px, 40.72px); opacity: 1; } 47.27% { transform: translate(83.89px, 40.1px); opacity: 1; } 49.09% { transform: translate(81.71px, 39.53px); opacity: 1; } 50.91% { transform: translate(79.41px, 39.01px); opacity: 1; } 52.73% { transform: translate(76.98px, 38.56px); opacity: 1; } 54.55% { transform: translate(74.42px, 38.19px); opacity: 1; } 56.36% { transform: translate(71.71px, 37.89px); opacity: 1; } 58.18% { transform: translate(68.86px, 37.69px); opacity: 1; } 60% { transform: translate(65.84px, 37.6px); opacity: 1; } 61.82% { transform: translate(62.64px, 37.64px); opacity: 1; } 63.64% { transform: translate(59.25px, 37.84px); opacity: 1; } 65.45% { transform: translate(55.66px, 38.23px); opacity: 1; } 67.27% { transform: translate(51.83px, 38.85px); opacity: 1; } 69.09% { transform: translate(47.74px, 39.77px); opacity: 1; } 70.91% { transform: translate(43.37px, 41.08px); opacity: 1; } 72.73% { transform: translate(38.69px, 42.93px); opacity: 1; } 74.55% { transform: translate(33.69px, 45.57px); opacity: 1; } 76.36% { transform: translate(28.48px, 49.45px); opacity: 1; } 78.18% { transform: translate(23.61px, 55.38px); opacity: 0; } 80% { transform: translate(21.2px, 64px); opacity: 0; } 100% { transform: translate(30px, 64px); opacity: 0; } }
+.burst { transform-box: fill-box; transform-origin: center; opacity: 0; animation: burst 4.2s ease-out infinite; }
+@keyframes burst { 0%, 79% { transform: scale(1); opacity: 0; } 81% { opacity: .9; } 100% { transform: scale(4.2); opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }</style>
+<defs>
+  <linearGradient id="skyp" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#0d1631"/><stop offset="1" stop-color="#17285a"/>
+  </linearGradient>
+  <radialGradient id="glowp">
+    <stop offset="0" stop-color="#f2a93b" stop-opacity=".55"/>
+    <stop offset=".45" stop-color="#f2a93b" stop-opacity=".16"/>
+    <stop offset="1" stop-color="#f2a93b" stop-opacity="0"/>
+  </radialGradient>
+  <clipPath id="clipp"><rect width="120" height="120" rx="12"/></clipPath>
+</defs>
+<g clip-path="url(#clipp)">
+<rect width="120" height="120" rx="12" fill="url(#skyp)"/>
+<circle cx="73.76" cy="87.08" r="0.7" fill="#fff" opacity="0.67"/>
+<circle cx="86.87" cy="107.3" r="0.31" fill="#fff" opacity="0.46"/>
+<circle cx="109.66" cy="76.69" r="0.75" fill="#fff" opacity="0.3"/>
+<circle cx="56.54" cy="31.62" r="0.57" fill="#fff" opacity="0.51"/>
+<circle cx="5.47" cy="28.27" r="0.44" fill="#fff" opacity="0.66"/>
+<circle cx="89.76" cy="21.88" r="0.7" fill="#fff" opacity="0.31"/>
+<circle cx="73.15" cy="18.19" r="0.3" fill="#fff" opacity="0.64"/>
+<circle cx="27.46" cy="28.13" r="0.79" fill="#fff" opacity="0.64"/>
+<circle cx="36.4" cy="111.69" r="0.57" fill="#fff" opacity="0.56"/>
+<circle cx="26.94" cy="109.39" r="0.65" fill="#fff" opacity="0.68"/>
+<circle cx="104.1" cy="37.46" r="0.48" fill="#fff" opacity="0.32"/>
+<circle cx="20.32" cy="11.3" r="0.45" fill="#fff" opacity="0.52"/>
+<circle cx="4.38" cy="79.93" r="0.47" fill="#fff" opacity="0.39"/>
+<circle cx="95.67" cy="57.84" r="0.46" fill="#fff" opacity="0.47"/>
+<g transform="rotate(-12 60 60)">
+<ellipse cx="65.2" cy="64" rx="44" ry="26.4" fill="none" stroke="#fff" stroke-opacity=".28" stroke-width=".7" stroke-dasharray="1.6 2.4"/>
+<circle class="burst" cx="30" cy="64" r="10" fill="none" stroke="#f2a93b" stroke-width="1.4" vector-effect="non-scaling-stroke"/>
+<g><circle cx="30" cy="64" r="28" fill="url(#glowp)"/><circle cx="30" cy="64" r="10" fill="#02040a" stroke="#ffd38a" stroke-width="1.4"/></g>
+<g class="mover"><g><circle cx="0" cy="0" r="7.68" fill="url(#glowp)"/><circle cx="0" cy="0" r="3.2" fill="#02040a" stroke="#ffd38a" stroke-width="0.6"/></g></g>
+</g>
+</g>
+</svg>
